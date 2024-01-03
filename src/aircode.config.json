@@ -1,0 +1,9 @@
+{
+  "name": "openai lottery",
+  "runtime": "node/v18",
+  "region": "US",
+  "envs": [
+    "SHEET_ID"
+  ],
+  "typescript": false
+}
